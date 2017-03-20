@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="feab60be-5513-4517-8853-fef7a03e1194" name="annoroad" url="http://192.168.2.201">
+        <fileTransfer host="192.168.2.201" port="22" rootFolder="/annoroad/data1/bioinfo/PROJECT/RD/Medical/Leukemia/chenyl/Projects/txt2excel" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e2ba132a-30bf-4bf0-9f3d-3de036457faa" name="vpn" url="http://192.168.2.201">
+        <fileTransfer host="192.168.2.201" port="22" rootFolder="/annoroad/data1/bioinfo/PROJECT/RD/Medical/Leukemia/chenyl/Projects/txt2excel" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
